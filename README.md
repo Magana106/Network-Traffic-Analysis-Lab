@@ -49,6 +49,4 @@ to SOC Analysts and Network Security roles.
 - ✅ IOC extraction
 - ✅ Professional documentation
 
----
 
-## 📁 Project Structure

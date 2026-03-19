@@ -23,7 +23,7 @@ to SOC Analysts and Network Security roles.
 
 ---
 
-## 📊 Skills i gaained
+## 📊 Skills i gained
 
 ### Technical Skills
 - ✅ Packet capture and analysis
